@@ -1,4 +1,5 @@
 packages/
+*.snk
 
 # Visual Studio Code
 .vscode/
